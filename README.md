@@ -1,0 +1,1 @@
+# Mysql-kafka-s3-redshift
